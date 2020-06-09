@@ -1,0 +1,32 @@
+.job-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.job-container span{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+   }
+
+.job-container h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+   }
+
+.job-container input{
+    width: 200px;
+    height: 25px;
+    margin-bottom: 10px;
+   }
+
+.job-container button{
+    margin-top: 10px;
+    width: 200px;
+    height: 40px;
+    background: #2EC14F;
+    border : none;
+    cursor : pointer;
+    color : #ffffff;
+    font-size: 16px;
+   }
